@@ -4231,3 +4231,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [12Jul2025 23:24:47.316] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-899 | 17 | 670)
 [12Jul2025 23:24:47.316] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (-899 | 17 | 670)
 [12Jul2025 23:24:47.316] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (-899 | 17 | 670)
+[12Jul2025 23:27:19.682] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[12Jul2025 23:27:19.685] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[12Jul2025 23:27:19.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 23:27:19.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 23:30:44.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> -673 646
+[12Jul2025 23:30:45.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati burned to death
+[12Jul2025 23:30:46.644] [Server thread/DEBUG] [twilightforest/]: Player rufoogati (0272e267-f370-3004-adff-ce4b0ad0eebb) respawned and received items held in storage
+[12Jul2025 23:31:17.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR has made the advancement [The Wind Darkening]
+[12Jul2025 23:32:19.685] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[12Jul2025 23:32:19.688] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[12Jul2025 23:32:19.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 23:32:19.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 23:33:05.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati has made the advancement [The day of the Dead]
+[12Jul2025 23:34:37.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati has reached the goal [Fighting Nightmares]
+[12Jul2025 23:35:22.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> subo?
+[12Jul2025 23:35:31.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> si queres

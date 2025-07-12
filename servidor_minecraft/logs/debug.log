@@ -4247,3 +4247,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [12Jul2025 23:34:37.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati has reached the goal [Fighting Nightmares]
 [12Jul2025 23:35:22.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> subo?
 [12Jul2025 23:35:31.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> si queres
+[12Jul2025 23:37:19.676] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[12Jul2025 23:37:19.678] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[12Jul2025 23:37:19.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 23:37:19.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 23:37:34.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati has made the advancement [Double Trouble]
+[12Jul2025 23:41:55.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati was doomed to fall
+[12Jul2025 23:41:56.752] [Server thread/DEBUG] [twilightforest/]: Player rufoogati (0272e267-f370-3004-adff-ce4b0ad0eebb) respawned and received items held in storage
+[12Jul2025 23:42:19.678] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[12Jul2025 23:42:19.681] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[12Jul2025 23:42:19.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 23:42:19.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 23:43:59.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR has made the advancement [Diamonds!]
+[12Jul2025 23:44:04.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati hit the ground too hard
+[12Jul2025 23:44:06.202] [Server thread/DEBUG] [twilightforest/]: Player rufoogati (0272e267-f370-3004-adff-ce4b0ad0eebb) respawned and received items held in storage

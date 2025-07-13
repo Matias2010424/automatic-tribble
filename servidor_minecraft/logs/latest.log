@@ -117,3 +117,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [13Jul2025 21:46:11.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR has made the advancement [We do a little trolling...]
 [13Jul2025 21:46:26.350] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCapuchinMonkey['Capuchin Monkey'/764, l='ServerLevel[world]', x=-327.55, y=80.00, z=159.89]
 [13Jul2025 21:56:49.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR has made the advancement [Enchanter]
+[13Jul2025 22:06:47.997] [Worker-Main-10/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource

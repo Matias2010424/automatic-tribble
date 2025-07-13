@@ -2110,3 +2110,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [13Jul2025 21:56:49.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR has made the advancement [Enchanter]
 [13Jul2025 21:57:37.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jul2025 21:57:37.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 22:02:37.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 22:02:37.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 22:06:46.979] [Worker-Main-3/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[13Jul2025 22:06:47.443] [Worker-Main-10/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.mofus_better_end_.json into net.minecraft.world.level.levelgen.NoiseChunk
+[13Jul2025 22:06:47.453] [Worker-Main-10/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[13Jul2025 22:06:47.997] [Worker-Main-10/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource
+[13Jul2025 22:06:47.998] [Worker-Main-10/DEBUG] [citadel/]: surface rule recursive depth: 15
+[13Jul2025 22:07:37.302] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[13Jul2025 22:07:37.306] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[13Jul2025 22:07:37.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 22:07:37.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

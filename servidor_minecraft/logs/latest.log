@@ -1,38 +1,69 @@
-[13Jul2025 22:20:00.334] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[13Jul2025 22:20:00.338] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[13Jul2025 22:20:00.834] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[13Jul2025 22:20:00.888] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/automatic-tribble/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[13Jul2025 22:20:01.182] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/automatic-tribble/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[13Jul2025 22:20:01.183] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/automatic-tribble/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Jul2025 22:20:01.184] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/automatic-tribble/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Jul2025 22:20:01.186] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/automatic-tribble/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Jul2025 22:20:01.349] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[13Jul2025 22:20:04.231] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[13Jul2025 22:20:04.313] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[13Jul2025 22:20:12.826] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[13Jul2025 22:27:09.526] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[13Jul2025 22:27:09.529] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[13Jul2025 22:27:10.087] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[13Jul2025 22:27:10.138] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/automatic-tribble/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[13Jul2025 22:27:10.471] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/automatic-tribble/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[13Jul2025 22:27:10.473] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/automatic-tribble/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Jul2025 22:27:10.474] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/automatic-tribble/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Jul2025 22:27:10.475] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/automatic-tribble/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Jul2025 22:27:10.661] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[13Jul2025 22:27:14.028] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[13Jul2025 22:27:14.100] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[13Jul2025 22:27:22.598] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[13Jul2025 22:20:14.902] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[13Jul2025 22:20:15.129] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[13Jul2025 22:20:15.130] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[13Jul2025 22:20:19.399] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[13Jul2025 22:20:19.432] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[13Jul2025 22:20:19.506] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/automatic-tribble/servidor_minecraft/config/sophisticatedcore-common.toml is not correct. Correcting
-[13Jul2025 22:20:19.583] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/automatic-tribble/servidor_minecraft/config/cataclysm.toml is not correct. Correcting
-[13Jul2025 22:20:19.899] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[13Jul2025 22:20:20.101] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[13Jul2025 22:20:20.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[13Jul2025 22:20:20.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[13Jul2025 22:20:20.410] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[13Jul2025 22:20:20.411] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[13Jul2025 22:20:20.511] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[13Jul2025 22:20:25.071] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13Jul2025 22:20:25.104] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
-net.minecraft.util.DirectoryLock$LockException: /workspaces/automatic-tribble/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
-	at net.minecraft.util.DirectoryLock$LockException.m_13648_(DirectoryLock.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
-	at net.minecraft.util.DirectoryLock.m_13640_(DirectoryLock.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
-	at net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.<init>(LevelStorageSource.java:404) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
-	at net.minecraft.world.level.storage.LevelStorageSource.m_289864_(LevelStorageSource.java:342) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
-	at net.minecraft.server.Main.main(Main.java:141) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+[13Jul2025 22:27:24.801] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[13Jul2025 22:27:24.948] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[13Jul2025 22:27:24.948] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[13Jul2025 22:27:29.544] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[13Jul2025 22:27:29.572] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[13Jul2025 22:27:29.697] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/automatic-tribble/servidor_minecraft/config/mowziesmobs-common.toml is not correct. Correcting
+[13Jul2025 22:27:30.022] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[13Jul2025 22:27:30.321] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[13Jul2025 22:27:30.735] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[13Jul2025 22:27:30.737] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[13Jul2025 22:27:30.791] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[13Jul2025 22:27:30.793] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[13Jul2025 22:27:30.950] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[13Jul2025 22:27:35.227] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13Jul2025 22:27:38.351] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/automatic-tribble/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23149!/assets/.mcassetsroot' uses unexpected schema
+[13Jul2025 22:27:38.352] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/automatic-tribble/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23149!/data/.mcassetsroot' uses unexpected schema
+[13Jul2025 22:27:39.945] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[13Jul2025 22:27:40.922] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[13Jul2025 22:27:40.923] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[13Jul2025 22:27:40.923] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[13Jul2025 22:27:40.924] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/crown_squid}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[13Jul2025 22:27:40.924] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[13Jul2025 22:27:40.925] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[13Jul2025 22:27:40.949] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/automatic-tribble/servidor_minecraft/config/sophisticatedcore-common.toml is not correct. Correcting
+[13Jul2025 22:27:40.958] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/automatic-tribble/servidor_minecraft/config/sophisticatedcore-common.toml is not correct. Correcting
+[13Jul2025 22:27:40.964] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[13Jul2025 22:27:40.979] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/automatic-tribble/servidor_minecraft/config/sophisticatedcore-common.toml is not correct. Correcting
+[13Jul2025 22:27:40.997] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/automatic-tribble/servidor_minecraft/config/sophisticatedcore-common.toml is not correct. Correcting
+[13Jul2025 22:27:41.003] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/automatic-tribble/servidor_minecraft/config/sophisticatedcore-common.toml is not correct. Correcting
+[13Jul2025 22:27:41.021] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/automatic-tribble/servidor_minecraft/config/sophisticatedcore-common.toml is not correct. Correcting
+[13Jul2025 22:27:41.043] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[13Jul2025 22:27:41.051] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[13Jul2025 22:27:41.052] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[13Jul2025 22:27:41.059] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[13Jul2025 22:27:41.063] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[13Jul2025 22:27:41.067] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mofus_better_end_:end_engine_recipe
+com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod_element'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23154!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23154!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23154!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
@@ -48,3 +79,44 @@ net.minecraft.util.DirectoryLock$LockException: /workspaces/automatic-tribble/se
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[13Jul2025 22:27:41.076] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/automatic-tribble/servidor_minecraft/config/sophisticatedcore-common.toml is not correct. Correcting
+[13Jul2025 22:27:41.086] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[13Jul2025 22:27:41.089] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/automatic-tribble/servidor_minecraft/config/sophisticatedcore-common.toml is not correct. Correcting
+[13Jul2025 22:27:41.093] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[13Jul2025 22:27:41.093] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/automatic-tribble/servidor_minecraft/config/sophisticatedcore-common.toml is not correct. Correcting
+[13Jul2025 22:27:41.103] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/automatic-tribble/servidor_minecraft/config/sophisticatedcore-common.toml is not correct. Correcting
+[13Jul2025 22:27:41.104] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[13Jul2025 22:27:41.259] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2109 advancements
+[13Jul2025 22:27:41.269] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[13Jul2025 22:27:41.274] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[13Jul2025 22:27:41.277] [main/INFO] [Dungeon Crawl/]: Loading data...
+[13Jul2025 22:27:41.584] [main/INFO] [Dungeon Crawl/]: Done.
+[13Jul2025 22:27:41.586] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[13Jul2025 22:27:41.622] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[13Jul2025 22:27:44.421] [main/INFO] [citadel/]: merged 6 surface rules with vanilla rule TestRuleSource
+[13Jul2025 22:27:44.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[13Jul2025 22:27:44.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[13Jul2025 22:27:44.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[13Jul2025 22:27:44.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[13Jul2025 22:27:44.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[13Jul2025 22:27:44.864] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[13Jul2025 22:27:44.955] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** FAILED TO BIND TO PORT!
+[13Jul2025 22:27:44.956] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The exception was: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+[13Jul2025 22:27:44.956] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: Perhaps a server is already running on that port?
+[13Jul2025 22:27:44.956] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+java.lang.IllegalStateException: Failed to initialize server
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:635) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[13Jul2025 22:27:44.989] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID aa6624d5-dfd9-4b29-bcb4-df4975739243
+[13Jul2025 22:27:44.991] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/automatic-tribble/servidor_minecraft/./crash-reports/crash-2025-07-13_22.27.44-server.txt
+[13Jul2025 22:27:44.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Jul2025 22:27:44.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Jul2025 22:27:44.993] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Exception stopping the server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.ServerLevel.m_6857_()" because "serverlevel2" is null
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:513) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.server.MinecraftServer.m_7041_(MinecraftServer.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7041_(DedicatedServer.java:510) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]

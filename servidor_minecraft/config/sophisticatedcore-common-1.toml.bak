@@ -1,0 +1,6 @@
+
+#Common Settings
+[common]
+	#Disable / enable any items here (disables their recipes)
+	enabledItems = ["sophisticatedbackpacks:upgrade_base|true", "sophisticatedbackpacks:alchemy_upgrade|true", "sophisticatedbackpacks:filter_upgrade|true", "sophisticatedbackpacks:advanced_restock_upgrade|true", "sophisticatedbackpacks:stack_upgrade_omega_tier|true", "sophisticatedbackpacks:advanced_magnet_upgrade|true", "sophisticatedbackpacks:stonecutter_upgrade|true", "sophisticatedbackpacks:battery_upgrade|true", "sophisticatedbackpacks:smoking_upgrade|true", "sophisticatedbackpacks:advanced_feeding_upgrade|true", "sophisticatedbackpacks:diamond_backpack|true", "sophisticatedbackpacks:gold_backpack|true", "sophisticatedbackpacks:inception_upgrade|true"]
+

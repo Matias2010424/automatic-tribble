@@ -1,12 +1,4 @@
 
-[Clawdian]
-	#Clawdian's Health Multiplier
-	#Range: 0.0 ~ 1000000.0
-	ClawdianHealthMultiplier = 1.0
-	#Clawdian's Damage Multiplier
-	#Range: 0.0 ~ 1000000.0
-	ClawdianDamageMultiplier = 1.0
-
 [Etc]
 	#Lava Opacity for the Ignitium Helemt.
 	#Range: 0.01 ~ 1.0
@@ -483,6 +475,14 @@
 	#Axe Blade's Damage
 	#Range: 0.0 ~ 1000000.0
 	AptrgangrAxeBladeDamage = 8.0
+
+[Clawdian]
+	#Clawdian's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	ClawdianHealthMultiplier = 1.0
+	#Clawdian's Damage Multiplier
+	#Range: 0.0 ~ 1000000.0
+	ClawdianDamageMultiplier = 1.0
 
 [Scylla]
 	#Scylla's Health Multiplier

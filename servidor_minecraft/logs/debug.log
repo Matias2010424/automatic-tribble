@@ -4291,3 +4291,51 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [12Jul2025 23:53:55.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> qq
 [12Jul2025 23:54:36.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati was slain by Umvuthi, the Sunbird
 [12Jul2025 23:54:37.764] [Server thread/DEBUG] [twilightforest/]: Player rufoogati (0272e267-f370-3004-adff-ce4b0ad0eebb) respawned and received items held in storage
+[12Jul2025 23:57:19.677] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[12Jul2025 23:57:19.680] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[12Jul2025 23:57:19.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 23:57:19.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 23:57:47.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR has made the advancement [Cover Me with Diamonds]
+[12Jul2025 23:59:14.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati was burnt to a crisp whilst fighting Umvuthana
+[12Jul2025 23:59:15.615] [Server thread/DEBUG] [twilightforest/]: Player rufoogati (0272e267-f370-3004-adff-ce4b0ad0eebb) respawned and received items held in storage
+[13Jul2025 00:01:40.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> sigues abajo?
+[13Jul2025 00:01:51.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> si ya estoy subiendo
+[13Jul2025 00:02:19.671] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[13Jul2025 00:02:19.673] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[13Jul2025 00:02:19.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 00:02:19.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 00:03:42.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> nos quedamos en esta aldea o otro lado
+[13Jul2025 00:03:48.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> ni idea
+[13Jul2025 00:04:35.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati has reached the goal [Flowers of the Savanna]
+[13Jul2025 00:06:44.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati has made the advancement [Alex's Caves]
+[13Jul2025 00:06:50.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> que
+[13Jul2025 00:07:12.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> dnd estas
+[13Jul2025 00:07:17.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> en una cueva
+[13Jul2025 00:07:19.669] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[13Jul2025 00:07:19.672] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[13Jul2025 00:07:19.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 00:07:19.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 00:08:17.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> te coonsegui una espada de diamante y pico
+[13Jul2025 00:09:39.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati has made the advancement [It Belongs in a Museum]
+[13Jul2025 00:12:19.671] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[13Jul2025 00:12:19.673] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[13Jul2025 00:12:19.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 00:12:19.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 00:12:33.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> tienes cama?}
+[13Jul2025 00:12:37.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> se
+[13Jul2025 00:12:42.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> dormi
+[13Jul2025 00:12:49.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> sdafnafeoine
+[13Jul2025 00:13:05.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> me olvide conseguir obsidiana
+[13Jul2025 00:13:14.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> blodown
+[13Jul2025 00:14:47.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR has made the advancement [Food Fight]
+[13Jul2025 00:15:34.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati has made the advancement [Deceived Hopes]
+[13Jul2025 00:15:42.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> t
+[13Jul2025 00:16:05.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> vamonos
+[13Jul2025 00:16:11.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> q
+[13Jul2025 00:16:14.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> recien entro
+[13Jul2025 00:16:35.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> necesito cuero para la mochi
+[13Jul2025 00:16:41.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> y aca no hay
+[13Jul2025 00:16:42.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> bueno pera
+[13Jul2025 00:16:51.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> primero quiero matar a alguien
+[13Jul2025 00:16:58.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> te doy pico
+[13Jul2025 00:17:04.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> y espada

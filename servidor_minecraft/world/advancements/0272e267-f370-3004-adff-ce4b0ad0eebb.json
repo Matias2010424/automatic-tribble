@@ -166,6 +166,7 @@
       "cooked_porkchop": "2025-07-12 22:55:36 +0000",
       "cooked_mutton": "2025-07-12 22:40:26 +0000",
       "cooked_beef": "2025-07-12 23:10:23 +0000",
+      "bread": "2025-07-13 00:03:12 +0000",
       "melon_slice": "2025-07-12 22:02:58 +0000"
     },
     "done": false
@@ -1224,9 +1225,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-13 00:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-07-13 00:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-07-13 00:11:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-07-12 23:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-07-13 00:11:17 +0000"
     },
     "done": true
   },
@@ -1236,9 +1261,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-13 00:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-13 00:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-13 00:11:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-07-13 00:06:44 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-07-12 23:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-12 23:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-07-13 00:11:49 +0000"
     },
     "done": true
   },
@@ -1251,6 +1312,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-07-12 23:04:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-07-13 00:09:39 +0000"
     },
     "done": true
   },
@@ -1272,6 +1339,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-13 00:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-13 00:11:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-12 23:02:45 +0000"
@@ -1284,9 +1363,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-13 00:11:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-07-12 23:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-13 00:11:49 +0000"
     },
     "done": true
   },
@@ -1296,9 +1387,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-13 00:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-13 00:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-07-13 00:11:49 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:double_trouble": {
     "criteria": {
       "double_trouble_0": "2025-07-12 23:37:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-07-13 00:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-07-13 00:11:17 +0000"
     },
     "done": true
   },
@@ -1308,9 +1429,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-13 00:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-13 00:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-07-13 00:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-07-13 00:11:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-07-12 23:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-13 00:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-13 00:11:49 +0000"
     },
     "done": true
   },
@@ -1326,9 +1483,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-13 00:11:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-07-12 23:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-07-13 00:11:49 +0000"
     },
     "done": true
   },
